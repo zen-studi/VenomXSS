@@ -4,10 +4,10 @@
 ![Python](https://img.shields.io/badge/python-3.7+-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## 📋 DESKRIPSI
-VenomXSS adalah tools canggih untuk mendeteksi kerentanan XSS (Cross-Site Scripting) dengan 1500+ payload dan multi-threading.
+## 📋 DESCRIPTION
+VenomXSS - 1500+ Payload XSS Scanner With Multi-Threading
 
-## ⚡ FITUR
+## ⚡ FEATURE
 - ✅ 1500+ Payload XSS (Reflected, Stored, DOM)
 - ✅ Multi-threading (cepat gila)
 - ✅ WAF Detection & Bypass
@@ -17,7 +17,7 @@ VenomXSS adalah tools canggih untuk mendeteksi kerentanan XSS (Cross-Site Script
 - ✅ Proxy Support
 - ✅ HTML Report
 
-## 🔧 INSTALLASI
+## 🔧 HOW TO INSTALL
 ```bash
 git clone https://github.com/zen-studi/VenomXSS.git
 cd VenomXSS
